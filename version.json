@@ -1,7 +1,7 @@
-   {
-     "latest_version": "1.0.1",
-     "latest_version_code": 1,
-     "apk_url": "https://github.com/jokerpride/update_talking/releases/download/V1.0.0.0/Talking.apk",
-     "release_notes": "New Update",
-     "force_update": false
-   }
+{
+  "latest_version": "1.0.1",
+  "latest_version_code":10312,
+  "apk_url": "https://github.com/jokerpride/update_talking/releases/download/V1.0.1/Talking.apk",
+  "release_notes": "Update ringtone for chat and call",
+  "force_update": false
+}
