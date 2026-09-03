@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.5",
-  "latest_version_code":10420,
-  "apk_url": "https://github.com/jokerpride/update_talking/releases/download/V1.0.5/Talking.apk",
-  "release_notes": "Verifikasi end-to-end mekanisme auto-update (download+notifikasi otomatis) di device asli.",
+  "latest_version": "1.0.6",
+  "latest_version_code":10430,
+  "apk_url": "https://github.com/jokerpride/update_talking/releases/download/V1.0.6/Talking.apk",
+  "release_notes": "Fix: checkForUpdate gagal parse version.json (Content-Type text/plain dari raw.githubusercontent.com bikin Dio tidak auto-decode JSON) - ini penyebab auto-update tidak pernah jalan sejak awal.",
   "force_update": false
 }
