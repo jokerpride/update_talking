@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.2",
-  "latest_version_code":10390,
-  "apk_url": "https://github.com/jokerpride/update_talking/releases/download/V1.0.2/Talking.apk",
-  "release_notes": "Update ringtone for chat and call",
-  "force_update": true
+  "latest_version": "1.0.3",
+  "latest_version_code":10400,
+  "apk_url": "https://github.com/jokerpride/update_talking/releases/download/V1.0.3/Talking.apk",
+  "release_notes": "Room YouTube player, wallpaper chat per-DM, efek kursi room, musik latar Story, ringtone per kontak untuk DM & panggilan, auto-reconnect room, dan perbaikan stabilitas/notifikasi.",
+  "force_update": false
 }
