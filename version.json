@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.3",
-  "latest_version_code":10400,
-  "apk_url": "https://github.com/jokerpride/update_talking/releases/download/V1.0.3/Talking.apk",
-  "release_notes": "Room YouTube player, wallpaper chat per-DM, efek kursi room, musik latar Story, ringtone per kontak untuk DM & panggilan, auto-reconnect room, dan perbaikan stabilitas/notifikasi.",
+  "latest_version": "1.0.4",
+  "latest_version_code":10410,
+  "apk_url": "https://github.com/jokerpride/update_talking/releases/download/V1.0.4/Talking.apk",
+  "release_notes": "Auto-update sekarang otomatis mendownload APK di background dan memberi notifikasi 'siap diinstal' (tidak perlu download manual lagi); cek update juga jalan tiap app dibuka dari background, bukan cuma saat cold start.",
   "force_update": false
 }
