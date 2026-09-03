@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.4",
-  "latest_version_code":10410,
-  "apk_url": "https://github.com/jokerpride/update_talking/releases/download/V1.0.4/Talking.apk",
-  "release_notes": "Auto-update sekarang otomatis mendownload APK di background dan memberi notifikasi 'siap diinstal' (tidak perlu download manual lagi); cek update juga jalan tiap app dibuka dari background, bukan cuma saat cold start.",
+  "latest_version": "1.0.5",
+  "latest_version_code":10420,
+  "apk_url": "https://github.com/jokerpride/update_talking/releases/download/V1.0.5/Talking.apk",
+  "release_notes": "Verifikasi end-to-end mekanisme auto-update (download+notifikasi otomatis) di device asli.",
   "force_update": false
 }
