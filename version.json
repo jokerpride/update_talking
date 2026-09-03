@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.8",
-  "latest_version_code":10450,
-  "apk_url": "https://github.com/jokerpride/update_talking/releases/download/V1.0.8/Talking.apk",
-  "release_notes": "Notifikasi 'update siap diinstal' sekarang tetap ada sampai user benar-benar install (tidak hilang cuma karena diketuk), dan tap-nya membuka file manager di folder Download/Talking, bukan langsung ke installer.",
+  "latest_version": "1.0.9",
+  "latest_version_code":10460,
+  "apk_url": "https://github.com/jokerpride/update_talking/releases/download/V1.0.9/Talking.apk",
+  "release_notes": "Verifikasi live device untuk fix notifikasi persist + buka file manager.",
   "force_update": false
 }
